@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.cmu.cs.lti</groupId>
+  <artifactId>ark-tweet-nlp-with-deps</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130130143051</lastUpdated>
+  </versioning>
+</metadata>
